@@ -17,6 +17,7 @@ export default defineConfig({
           href: "https://github.com/Domenico-Tenace-Open-Labs/daily-prompt",
         },
       ],
+      favicon: "/favicon.ico",
     }),
   ],
 
