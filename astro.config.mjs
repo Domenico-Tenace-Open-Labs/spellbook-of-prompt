@@ -8,17 +8,15 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   integrations: [
     starlight({
-      title: "Daily Prompt 👾",
-	  customCss: [ 
-        './src/styles/global.css',
-      ],
+      title: "SpellBook of prompt 🧙🏻‍♂️",
+      customCss: ["./src/styles/global.css"],
       social: [
         {
           icon: "github",
           label: "GitHub",
           href: "https://github.com/Domenico-Tenace-Open-Labs/daily-prompt",
         },
-      ], 
+      ],
     }),
   ],
 
