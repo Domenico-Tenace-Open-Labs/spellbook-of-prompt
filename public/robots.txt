@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://domenico-tenace-open-labs.github.io/daily-prompt/sitemap-index.xml
