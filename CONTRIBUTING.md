@@ -1,6 +1,6 @@
-# Contributing to daily-prompt
+# Contributing to SpellBook of prompt
 
-Thank you for your interest in contributing to this project. The goal of daily-prompt is to collect useful, clear, and testable prompts, organized in a simple and easy-to-browse structure.
+Thank you for your interest in contributing to this project. The goal of SpellBook of prompt is to collect useful, clear, and testable prompts, organized in a simple and easy-to-browse structure.
 
 ## How to contribute a new prompt
 
@@ -97,4 +97,4 @@ Before submitting your contribution, make sure you have:
 - [ ] written a title, description, and example;
 - [ ] verified that the project builds without errors.
 
-Thank you for helping make daily-prompt even more useful for the community.
+Thank you for helping make SpellBook of prompt even more useful for the community.
